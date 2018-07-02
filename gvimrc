@@ -18,3 +18,4 @@ cnoremap con find ~/.gvimrc
 cnoremap vcon find ~/.vimrc
 cnoremap gvcon find ~/.gvimrc
 set transparency=8
+
